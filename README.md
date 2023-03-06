@@ -120,7 +120,7 @@ Version 2.3.0
 
 ## Authors
 
-* **Matthew Waldron** - (http://waldronmatthew.com)
+* **Murat Ekşioğlu** - (http://murateksioglu.com)
 
 ## License
 
