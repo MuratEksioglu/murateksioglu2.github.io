@@ -27,7 +27,7 @@ To edit the home section:
 
 To edit the mailing list:
 
-1) Create your own Google Sheets mailing list by following the tutorial by David McCoy: https://medium.com/@dmccoy/how-to-submit-an-html-form-to-google-sheets-without-google-forms-b833952cc175
+1) Create your own Google Sheets mailing list by following the tutorial by Murat Ekşioğlu: https://medium.com/@murateksioglu
 2) Replace your newly created google sheets link via "url" in mailingList.js
 3) Substitute your call-to-action and tagline in the index.html
 
